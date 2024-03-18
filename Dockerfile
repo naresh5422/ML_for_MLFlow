@@ -1,0 +1,3 @@
+CMD
+RUN
+ADD 
